@@ -6,7 +6,7 @@
 #### User must be logged in (pre-registered) to order any meal
 
 
-APIs for following endpoints:
+Some e.g. APIs for following endpoints:
 
 1. GET meal logs for a user : http://localhost:3000/meal/find
 2. GET a list of hashtags in the system : http://localhost:3000/hash/find
